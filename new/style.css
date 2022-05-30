@@ -27,6 +27,7 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+
 .bloc {
     width: 100%;
     clear: both;
@@ -677,9 +678,12 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 17px;
 }
 
+article{
+font-size: 20px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
